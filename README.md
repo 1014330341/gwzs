@@ -26,3 +26,6 @@ tycg.plist 天翼采购
 ityysc.plist IT智慧运营视窗
 
 gate.plist 出入管理
+
+mssportal.plist MSS移动门户
+
