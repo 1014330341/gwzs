@@ -31,3 +31,5 @@ mssportal.plist MSS移动门户
 
 yxspbusiness.plist 营销沙盘商客
 
+yxspcommunity.plist 营销沙盘小区
+
