@@ -11,13 +11,13 @@
       <key>kind</key> 
       <string>software-package</string> 
       <key>url</key>
-         <string>http://202.103.124.85:8081/group1/M00/00/1B/hrAB0lycmuuARPtJAMNgmDd_PXQ250.ipa</string> 
+         <string>http://202.103.124.85:8081/group1/M00/00/1E/hrAB01ykHISANEK3AJXQGpJu5ms015.ipa</string> 
      </dict>
     </array>
     <key>metadata</key>
     <dict>
     <key>bundle-identifier</key> 
-    <string>com.chinatelecom.hunan.wisdomportal</string> 
+    <string>com.chinatelecom.jt.iAppChannel</string> 
      <key>bundle-version</key> 
      <string>0.0.10</string> 
      <key>kind</key> 
