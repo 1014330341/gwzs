@@ -11,19 +11,19 @@
       <key>kind</key> 
       <string>software-package</string> 
       <key>url</key>
-         <string>http://202.103.124.85:8081/group1/M00/00/11/hrAB01q7k26AMZOhAClKXIStaTw634.ipa</string> 
+         <string>http://202.103.124.85:8081/group1/M00/00/25/hrAB012DS4SAV894ACx4BHNUmBQ669.ipa</string> 
      </dict>
     </array>
     <key>metadata</key> 
     <dict>
     <key>bundle-identifier</key> 
-    <string>com.chinatelecom.hunan.itsm</string> 
+    <string>com.chinatelecom.hunan.itwangguan</string> 
      <key>bundle-version</key> 
      <string>1.0</string> 
      <key>kind</key> 
      <string>software</string> 
      <key>title</key> 
-     <string>IT网管待办</string> 
+     <string>IT网管</string> 
     </dict> 
    </dict> 
   </array> 
